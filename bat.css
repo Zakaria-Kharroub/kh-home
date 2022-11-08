@@ -1,0 +1,302 @@
+/* 1page- */
+#header{
+    width: 90%;
+    display: inline-flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    /* background-attachment: fixed; */
+}
+.logo{
+    margin-left:2% ;
+    margin-top: 1%;
+}
+.login{
+    margin-top: 4%;
+    margin-left: 40%;
+}
+button{
+    font-family: monospace;
+    width: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+/* <!-- milieu page principal --> */
+#milieu{
+    background-image: url(img/1.PNG);
+    width: 90%;
+    margin: 0% 5% 1% 5%;
+    height: 610px;
+    
+}
+.para-page-1{
+    padding: 400px 40px 0px 40px;
+    color: white;
+    font-size: 50px;
+    font-family: monospace;
+    text-shadow: 5px 10px 8px black;
+}
+/*================================== page-2============================*/
+#page-2{
+    background-color: #4e5152;
+    width: 90%;
+    margin: 1% 5% 1% 5%;
+    height: 730px;
+    
+}
+.about{
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    text-shadow: 5px 0px 4px black ;
+    padding-top: 250px;
+}
+.p-about{
+    color: white;
+    text-align: center;
+    padding: 30px 270px 0px 270px;
+    text-shadow: 5px 0px 4px black ;
+}
+/* ==============================page-3================================= */
+#page-3{
+    width: 90%;
+    margin: 1% 5% 1% 5%;
+    height: 730px;
+    /* background-color: bisque; */
+    display: inline-flex;
+}
+.parag-3{
+    margin: 50px 0px 0px 70px;  
+}
+.t-parag-3{
+    color:#4e5152 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.c-parag-3{
+    color:#4e5152;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px 30px 0px 150px;
+}
+#bt-3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin: 150px 30px 0px 150px;
+}
+/* ===================================page-4================================ */
+#page-4{
+    width: 90%;
+    margin: 1% 5% 1% 5%;
+    height: 730px;
+    /* background-color: bisque; */
+    display: inline-flex;
+}
+.parag-4{
+    margin: 50px 0px 0px 70px;  
+}
+.t-parag-4{
+    color:#4e5152 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.c-parag-4{
+    color:#4e5152;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px 30px 0px 150px;
+}
+#bt-4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin: 150px 30px 0px 150px;
+}
+/* ==================================page-5======================================= */
+#page-5{
+    width: 90%;
+    margin: 1% 5% 1% 5%;
+    height: 730px;
+    /* background-color: bisque; */
+    display: inline-flex;
+}
+.parag-5{
+    margin: 50px 0px 0px 70px;  
+}
+.t-parag-5{
+    color:#4e5152 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.c-parag-5{
+    color:#4e5152;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px 30px 0px 150px;
+}
+#bt-5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin: 150px 30px 0px 150px;
+}
+/*===================== page-6======================  */
+#page-6{
+    width: 90%;
+    margin: 1% 5% 0% 5%;
+    height: 730px;
+    /* background-color: bisque; */
+}
+.g-t-6{
+    text-align: center;
+    margin: 0px 0px 30px 0px;
+    padding-top: 20px;
+}
+#page-6-contenu{
+    display: inline-flex;
+}
+/* pages-6 */
+#page-6-1{
+    background-image: url(img/6-2.png);
+    height: 570px;
+    margin-right: 25px;
+}
+#p-601{
+    background-color: white;
+    margin: 400px 20px 15px 20px;
+}
+#page-6-2{
+    background-image: url(img/6-2.png);
+    height: 570px;
+    margin-right: 25px;
+}
+#p-602{
+    background-color: white;
+    margin: 400px 20px 15px 20px;
+}
+#page-6-3{
+    background-image: url(img/6-3.png);
+    height: 570px;
+}
+#p-603{
+    background-color: white;
+    margin: 400px 20px 15px 20px;
+}
+/* 6 */
+.number-6{
+    color: #bfc4c6;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.title-6{
+    color:#4e5152 ;
+    font-size: 35px;
+    
+}
+.parag-6{
+    color: #4e5152;
+    font-family: serif;
+}
+/* =========================page-7 ===========================*/
+#page-7{
+    width: 90%;
+    margin: 0% 5% 1% 5%;
+    height: 730px;
+    background-image: url(img/7.png);
+}
+#parag-7{
+    text-align: center;
+    padding-top: 300px ;
+    padding-left:220px ;
+    padding-right: 220px;
+}
+.ttl-7{
+    color: rgb(240, 240, 240);
+    font-size: 50px;
+    
+    text-shadow: 5px 0px 8px black;
+}
+/* page-8-contact */
+#page-8-contact{
+    width: 90%;
+    margin: 0% 5% 0% 5%;
+    height: 740px;
+    background-image: url(img/back-page-contact.png);
+    display: inline-flex;
+}
+.logo-contact{
+    margin-top: 70px;
+}
+.title-contact{
+    font-size: 60px;
+    font-family: monospace;
+    margin-top: 25px;
+    margin-left: 70px;
+    margin-right: 150px;
+
+}
+#e-m-c{
+    font-family: monospace;
+    display: inline-flex;
+    margin-top: 50px;
+    margin-left: 30px;
+    font-weight: bold;
+    /* margin-right: 100px; */
+}
+.email{
+    margin-left: 130px;
+}
+#adress-media{
+    font-family: monospace;
+    display: inline-flex;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+#a-sm-c{
+    display: inline-flex;
+}
+.adress{
+    width: 190px;
+    
+}
+.s-media{
+    margin-left: 80px;
+}
+#media-png{
+    display: inline-flex;
+}
+.instagram-png{
+    margin-left: 10px;
+    margin-right:10px;
+}
+#fo9{
+    /* margin-left: 300px; */
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+
+
+@media (min-with:576px){
+
+    .login {
+    }
+    
+}
+@media (min-with:768px){
+    
+    }
+
+@media (min-with:992px){
+
+
+}
+@media (min-with:1200px){
+    
+    }
+
+/* body{
+    background-image: url(img/);
+} */
+
+
